@@ -10,7 +10,7 @@ import aiofiles
 
 # ---------------- CONFIG ----------------
 TOKEN = os.environ.get("BOT_TOKEN")
-GUILD_ID = 1474846906369966195
+GUILD_ID = 1493335493717397574
 
 # Channels
 TICKETS_CATEGORY_ID = 1493355935463117020
